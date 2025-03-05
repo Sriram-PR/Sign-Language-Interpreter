@@ -1,7 +1,7 @@
 # Sign Language Interpreter
 
 ## Overview
-This project is a Sign Language Interpreter using flex sensors and motion detection to translate hand gestures into text messages. The system uses an Arduino microcontroller with flex sensors attached to a glove and an MPU6050 accelerometer to detect hand orientation. Recognized gestures are sent via Bluetooth to a paired device.
+The system uses an Arduino microcontroller with flex sensors attached to a glove and an MPU6050 accelerometer to detect hand orientation. Recognized gestures are sent via Bluetooth to a paired device.
 
 ## Hardware Components
 - Arduino board (e.g., Arduino Uno or Nano)
